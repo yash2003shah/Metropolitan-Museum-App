@@ -8,7 +8,7 @@ import { useState, useEffect } from 'react';
 
 import { addToFavourites, removeFromFavourites } from '../lib/userData';
 
-export default function ArtworkCardDetail(props) {
+export default function ArtworkCardDetail({objectID}) {
 
     const [favouritesList, setFavouritesList] = useAtom(favouritesAtom);
 
