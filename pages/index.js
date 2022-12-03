@@ -4,8 +4,9 @@
 * No part of this assignment has been copied manually or electronically from any other source
 * (including web sites) or distributed to other students.
 *
-* Name: Yashkumar Vipulkumar Shah id: 103985214 Date: 02-12-2022
-*
+* Name: Yashkumar Vipulkumar Shah Student Id: 103985214 Date: 12-02-2022
+* 
+* Vercel App (Deployed) Link:
 *
 ********************************************************************************/
 
@@ -46,7 +47,9 @@ export default function Home() {
           the museum attracted 1,958,000 visitors, ranking fourth on the list of most-visited art museums in the world.
           </p>
 
-          <a href="https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art" style={{color: "#5dd75d"}} target="_blank" rel="noreferrer">https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art</a>
+          <a href="https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art" target="_blank" rel="noreferrer">
+            https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art
+          </a>
         </Col>
       </Row>
     </>

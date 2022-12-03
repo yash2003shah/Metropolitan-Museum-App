@@ -41,11 +41,11 @@ export default function MainNav() {
  
     return (
      <>
-      <Navbar className="navbar navbar-expand-lg navbar-dark bg-primary" expand="lg" expanded={isExpanded}>
+      <Navbar className="fixed-top navbar-dark bg-dark" bg="light" expand="lg" expanded={isExpanded}>
          <Container>
-            <Navbar.Brand>Yashkumar Vipulkumar shah</Navbar.Brand>
-            <Navbar.Toggle aria-controls="navbarScroll" onClick={(e) => {setIsExpanded(!isExpanded)}}/>
-            <Navbar.Collapse id="navbarScroll">
+            <Navbar.Brand>Yashkumar Vipulkumar Shah</Navbar.Brand>
+            <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={(e) => {setIsExpanded(!isExpanded)}}/>
+            <Navbar.Collapse id="basic-navbar-nav">
                <Nav className="me-auto">
                   <Link href="/" passHref legacyBehavior><Nav.Link onClick={(e) => {setIsExpanded(false)}} active={router.pathname === "/"}>Home</Nav.Link></Link>
                   {token 

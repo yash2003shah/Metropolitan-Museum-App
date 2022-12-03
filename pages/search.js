@@ -35,7 +35,6 @@ export default function AdvancedSearch() {
       q: ""
     }
 
-
     for (const prop in data) {
       setValue(prop, data[prop]);
     }

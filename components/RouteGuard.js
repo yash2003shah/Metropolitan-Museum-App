@@ -1,11 +1,9 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import { isAuthenticated } from '../lib/authenticate';
-
 import { useAtom } from 'jotai';
 import { favouritesAtom } from '../store';
 import { searchHistoryAtom } from '../store';
-
 import { getFavourites, getHistory } from '../lib/userData';
 
 
@@ -19,7 +17,7 @@ export default function RouteGuard(props) {
     const [favouritesList, setFavouritesList] = useAtom(favouritesAtom);
 
     useEffect(() => {
-          updateAtoms()
+        updateAtoms() 
         authCheck(router.pathname);
         router.events.on('routeChangeComplete', authCheck)
 

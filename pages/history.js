@@ -1,13 +1,8 @@
 import {useRouter} from 'next/router';
-import { Row, Col } from 'react-bootstrap';
-import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
-import { useForm } from 'react-hook-form';
-import { useEffect } from 'react';
 import { useAtom } from 'jotai';
 import { searchHistoryAtom } from '../store';
 import ListGroup from 'react-bootstrap/ListGroup';
-import Error from 'next/error';
 import Card from 'react-bootstrap/Card';
 import styles from '../styles/History.module.css';
 

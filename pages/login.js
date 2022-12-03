@@ -2,11 +2,9 @@ import { Card, Form, Alert, Button } from "react-bootstrap";
 import { useState, useEffect } from 'react';
 import { authenticateUser } from "../lib/authenticate";
 import { useRouter } from 'next/router';
-
 import { useAtom } from 'jotai';
 import { favouritesAtom } from '../store';
 import { searchHistoryAtom } from '../store';
-
 import { getFavourites, getHistory } from '../lib/userData';
 
 export default function Login(props) {
