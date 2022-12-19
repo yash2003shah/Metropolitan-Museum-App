@@ -14,7 +14,7 @@ Second, develop a modern and responsive interface for searching and viewing info
 
 1. Authentication using JSON Web Tokens(JWT)
 2. React hook form for creating the login form and register form
-3. Jotai
+3. Jotai for managing application states.
 4. The User Interface was developed using React Bootstrap. 
 5. Bcryptjs is used to encrypt passwords by hashing passwords, and a JWT is appended to the hashed password, and then  the hashed password is stored in the JWT token.
 
