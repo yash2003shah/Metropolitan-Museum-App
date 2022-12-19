@@ -25,7 +25,7 @@ The user must validate the password before proceeding to the next stage.With the
 The app creates results based on your searches. Users can also view their favorites list and search history. In addition, the application allows users to delete previously performed searches from their search history and remove items added to their favorites. Also, after logging out, the user can log back in to get all her account activity.
 ## Results
 
-**"mark" has logged in to this site. **
+**"mark" has logged in to this site.**
 <br>
 <br>
 
