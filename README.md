@@ -51,14 +51,15 @@ The app creates results based on your searches. Users can also view their favori
 ![image](https://user-images.githubusercontent.com/97627930/208000301-741a7b79-da34-453a-a823-cf12f8307ef1.png)
 
 
-**And he can access all the items added in his favorites list**
+**Now it has the ability to access all the favourite items **
 <br>
 <br>
 
 ![image](https://user-images.githubusercontent.com/97627930/208000394-1bcc714c-ac6b-49b9-afa1-80230a70f0a5.png)
 
 
-**After he clicks on the logout button it will redirect him to the login page. And he can get all his account activities back after logging in again.**
+**He will be sent to the login page after clicking the logout button.
+Additionally, after signing back in, he may recover all of his account activity. **
 <br>
 <br>
 
