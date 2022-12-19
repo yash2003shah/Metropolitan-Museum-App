@@ -48,18 +48,17 @@ The app creates results based on your searches. Users can also view their favori
 <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/97627930/208000301-741a7b79-da34-453a-a823-cf12f8307ef1.png)
+![image](https://user-images.githubusercontent.com/90211180/208357291-41535207-64e7-4d7e-8798-5079c18bb80f.png)
 
 
 **Now it has the ability to access all the favourite items**
 <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/97627930/208000394-1bcc714c-ac6b-49b9-afa1-80230a70f0a5.png)
-
+![image](https://user-images.githubusercontent.com/90211180/208357422-462e5dab-5612-4c7b-9216-b3a5a6e79ccf.png)
 
 **He will be sent to the login page after clicking the logout button. Additionally, after signing back in, he may recover all of his account activity.**
 <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/97627930/208000729-5c7f4d1b-4e15-45c7-8901-f8a57a227908.png)
+![image](https://user-images.githubusercontent.com/90211180/208357497-be827f58-7a15-434b-bdf5-e8a5d754bdf9.png)
