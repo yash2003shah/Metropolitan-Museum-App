@@ -6,7 +6,7 @@
 *
 * Name: Yashkumar Vipulkumar Shah Student Id: 103985214 Date: 12-02-2022
 * 
-* Vercel App (Deployed) Link:
+* Vercel App (Deployed) Link: https://assignment-6-rosy.vercel.app/
 *
 ********************************************************************************/
 

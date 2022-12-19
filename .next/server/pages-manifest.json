@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/artwork/[objectID]": "pages/artwork/[objectID].html",
+  "/artwork": "pages/artwork.html",
+  "/favourites": "pages/favourites.html",
+  "/history": "pages/history.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/register": "pages/register.html",
+  "/search": "pages/search.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

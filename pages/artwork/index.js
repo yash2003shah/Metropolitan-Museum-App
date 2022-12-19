@@ -44,7 +44,7 @@ export default function Artwork(){
             setArtworkList(results);
         }
         setPage(1);
-    }, [data]);
+    }, [data]);
 
     if(artworkList){
         if(artworkList.length == 0){
